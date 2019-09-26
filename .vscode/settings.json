@@ -1,6 +1,5 @@
 {
     "go.useLanguageServer": true,
-    "go.inferGopath": false,
-    "go.gopath": "/go",
+    "go.inferGopath": true,
     "go.goroot": "/usr/local/go"
 }
